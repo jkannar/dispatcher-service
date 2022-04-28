@@ -1,4 +1,4 @@
-package com.example.dispatcherservice;
+package com.polarbookshop.dispatcherservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
